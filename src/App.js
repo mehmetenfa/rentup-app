@@ -1,11 +1,8 @@
-import './App.css';
+import "./App.css";
+import Pages from "./components/pages/Pages";
 
 function App() {
-  return (
-    <div className="App">
-      asdasdasd
-    </div>
-  );
+  return <Pages />;
 }
 
 export default App;
