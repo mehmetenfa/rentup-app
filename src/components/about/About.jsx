@@ -8,7 +8,7 @@ const About = () => {
   return (
     <>
       <section className="about">
-        <Back name='About Us' title='About Us - Wgo We Are?' cover={img} />
+        <Back name="About Us" title="About Us - Who We Are?" cover={img} />
         <div className="container flex mtop">
           <div className="left row">
             <Heading
